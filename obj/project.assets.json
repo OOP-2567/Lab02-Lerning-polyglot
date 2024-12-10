@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\jiman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Downloads\\Lab02-Lerning-polyglot-main\\Lab02-Lerning-polyglot-main\\Lab02-Lerning-polyglot-main.csproj",
+      "projectUniqueName": "C:\\Users\\jiman\\Documents\\GitHub\\Lab02-Lerning-polyglot\\Lab02-Lerning-polyglot-main.csproj",
       "projectName": "Lab02-Lerning-polyglot-main",
-      "projectPath": "C:\\Users\\admin\\Downloads\\Lab02-Lerning-polyglot-main\\Lab02-Lerning-polyglot-main\\Lab02-Lerning-polyglot-main.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Downloads\\Lab02-Lerning-polyglot-main\\Lab02-Lerning-polyglot-main\\obj\\",
+      "projectPath": "C:\\Users\\jiman\\Documents\\GitHub\\Lab02-Lerning-polyglot\\Lab02-Lerning-polyglot-main.csproj",
+      "packagesPath": "C:\\Users\\jiman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jiman\\Documents\\GitHub\\Lab02-Lerning-polyglot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jiman\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

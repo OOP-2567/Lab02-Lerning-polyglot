@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Lerning-polyglot-main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82d02aaf15d934ac1d12d607d916ab2a75d65bba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Lerning-polyglot-main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Lerning-polyglot-main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
